@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ferdinand Morena
+- 👀 I’m interested in Web Development, Mobile App Development and Cyber Security
+- 🌱 I’m currently learning Python, React, React Native, HTML and CSS and Javascript
+- 💞️ I’m looking to collaborate on any web development project
+- 📫 How to reach me fmmphahle01@gmail.com / 067 146 4628
+- 😄 Pronouns: he/him

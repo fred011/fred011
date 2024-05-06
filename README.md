@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ferdinand Morena
+- 👋 Hi, I’m Ferdinand Morena a graduate from the University of Limpopo, I majored in computer Science.
 - 👀 I’m interested in Web Development, Mobile App Development and Cyber Security
 - 🌱 I’m currently learning Python, React, React Native, HTML and CSS and Javascript
 - 💞️ I’m looking to collaborate on any web development project

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science graduate, passionate about the realms of coding and building robust web applications<br>
+I'm a Computer Science graduate from University of Limpopo, passionate about the realms of coding and building robust web applications<br>
 
 
 ## 🌐 Socials:

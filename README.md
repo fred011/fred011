@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Computer Science graduate from University of Limpopo, passionate about the realms of coding and building robust web applications<br>
+I’m Ferdinand Morena, a Full Stack MERN Web Developer with a passion for crafting clean, functional, and user-focused web applications. I enjoy turning ideas into digital experiences using React, Node.js, Express, and MongoDB.
+
+I’m always exploring new technologies, improving my coding skills, and building projects that solve real-world problems. When I’m not coding, I’m learning about design, productivity, and how tech can empower communities.
+
+🚀 Currently focused on creating scalable applications and improving my React and API development skills.<br>
 
 
 ## 🌐 Socials:

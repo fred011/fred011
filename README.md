@@ -44,8 +44,8 @@ I work across the stack with **React, Next.js, TypeScript, Node.js, Express.js, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fred011&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fred011&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerdinandMorena&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerdinandMorena&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">

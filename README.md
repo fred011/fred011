@@ -31,15 +31,14 @@ I work across the stack with **React, Next.js, TypeScript, Node.js, Express.js, 
 | **Deployment**        | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Other**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square\&logo=three.js\&logoColor=white)                                                                                                                                                                                                                                                                                                                 |
 
----
-
 ## 🚀 Featured Projects
 
-* **AI CV Analyzer** — AI-powered platform for analysing CVs and providing actionable improvement suggestions.
-* **Erisn Student Management System** — Full-stack platform for managing student information and administrative workflows.
-* **Business & Portfolio Websites** — Responsive, modern websites built with React, Next.js, and WordPress.
+* **FM Designs** — Modern digital agency platform built with Next.js, TypeScript, Tailwind CSS, GSAP, and Framer Motion, focused on high-end UI, animations, and interactive user experiences.
+* **AI CV Analyzer** — AI-powered platform for analysing CVs, identifying strengths and weaknesses, and providing actionable improvement suggestions.
+* **Erisn Student Management System** — Full-stack platform for managing student information, attendance, and administrative workflows.
+* **MERN Authentication App** — Full-stack authentication system demonstrating React, Node.js, Express, MongoDB, authentication, and secure user workflows.
+* **Modibe Borehole Drilling** — Professional business website built with Next.js and TypeScript for showcasing services and generating customer enquiries.
 
----
 
 
 
